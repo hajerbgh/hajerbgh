@@ -32,5 +32,7 @@ I love turning ideas into real projects, exploring new technologies, and learnin
 ---
 
 ✨ **Stats & Activity**  
-![Hajer’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=hajerbgh&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hajerbgh&layout=compact&theme=radical)
+![Hajer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hajerbgh&show_icons=true&count_private=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hajerbgh&layout=compact&theme=tokyonight)
+
