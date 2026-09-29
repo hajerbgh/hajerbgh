@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Hajer Benghazi!
 
 🎓 **Computer Engineering Student** at the Faculty of Sciences of Tunis  
-💡 Passionate about **DevOps**, **AI**, & **Cybersecurity**  
+💡 Passionate about **IOT**, **Cybersecurity**, & **AI**  
 
 ---
 
