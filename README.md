@@ -2,7 +2,7 @@
 
 🎓 Computer Engineering student (final year of the engineering cycle) at the **Faculty of Sciences of Tunis (FST)**, Université de Tunis El Manar
 🔐 I work at the intersection of **cybersecurity (Blue Team / SOC)**, **secure IoT** and **AI-integrated systems**
-📍 Tunisia · open to research / PFE opportunities in France
+📍 Tunisia · open to research / PFE opportunities 
 
 ---
 
